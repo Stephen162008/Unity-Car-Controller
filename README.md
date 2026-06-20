@@ -40,8 +40,6 @@ Perfect for:
 
 ![Screenshot 4](u4.jpg)
 
-![Screenshot 4](u1.jpg)
-
 ---
 
 # 🎥 Tutorial Video
