@@ -19,7 +19,6 @@ A complete mobile-ready vehicle controller system built with **Edy's Vehicle Phy
 
 # 📸 Screenshots
 
-> Upload screenshots to GitHub and replace the links below.
 
 ![Screenshot 1](images/car1.png)
 
