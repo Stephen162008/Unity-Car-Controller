@@ -7,7 +7,6 @@
 ![Language](https://img.shields.io/badge/C%23-Scripts-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-## 📱 Mobile Touch Controls for Edy's Vehicle Physics
 
 A complete mobile-ready vehicle controller system built with **Edy's Vehicle Physics** for Unity.
 
