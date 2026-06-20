@@ -31,7 +31,7 @@ A complete mobile-ready vehicle controller system built with **Edy's Vehicle Phy
 
 📺 Watch the full setup tutorial on YouTube:
 
-👉 **YOUR YOUTUBE VIDEO LINK HERE**
+👉 https://youtu.be/2U4LS8HSFnE?si=zSuRgHhogqBP85Oe
 
 ---
 
@@ -42,10 +42,6 @@ A complete mobile-ready vehicle controller system built with **Edy's Vehicle Phy
 ✅ Accelerator & Brake Buttons
 
 ✅ Reverse Gear
-
-✅ Speedometer
-
-✅ Mobile-Friendly UI
 
 ✅ Unity Ready
 
@@ -61,8 +57,6 @@ A complete mobile-ready vehicle controller system built with **Edy's Vehicle Phy
 
 # 🎮 Controls
 
-| Button | Function |
-|----------|----------|
 | Steering Left | Turn Left |
 | Steering Right | Turn Right |
 | Accelerator | Move Forward |
@@ -76,4 +70,4 @@ A complete mobile-ready vehicle controller system built with **Edy's Vehicle Phy
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Stephen162008/Youtube-Project.git
+git clone https://github.com/Stephen162008/Unity-Car-Controllert.git
