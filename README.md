@@ -32,7 +32,7 @@ Perfect for:
 
 # 📸 Screenshots
 
-![Screenshot 1](u5.jpg)
+![Screenshot 1](u5.png)
 
 ![Screenshot 2](u2.jpg)
 
